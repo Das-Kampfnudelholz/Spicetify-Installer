@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Spicetify-Installer\Spicetify-Installer\bin\Debug\net6.0\Spicetify-Installer.exe
+C:\Users\User\source\repos\Spicetify-Installer\Spicetify-Installer\bin\Debug\net6.0\Spicetify-Installer.deps.json
+C:\Users\User\source\repos\Spicetify-Installer\Spicetify-Installer\bin\Debug\net6.0\Spicetify-Installer.runtimeconfig.json
+C:\Users\User\source\repos\Spicetify-Installer\Spicetify-Installer\bin\Debug\net6.0\Spicetify-Installer.dll
+C:\Users\User\source\repos\Spicetify-Installer\Spicetify-Installer\bin\Debug\net6.0\Spicetify-Installer.pdb
+C:\Users\User\source\repos\Spicetify-Installer\Spicetify-Installer\obj\Debug\net6.0\Spicetify-Installer.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Spicetify-Installer\Spicetify-Installer\obj\Debug\net6.0\Spicetify-Installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Spicetify-Installer\Spicetify-Installer\obj\Debug\net6.0\Spicetify-Installer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Spicetify-Installer\Spicetify-Installer\obj\Debug\net6.0\Spicetify-Installer.AssemblyInfo.cs
+C:\Users\User\source\repos\Spicetify-Installer\Spicetify-Installer\obj\Debug\net6.0\Spicetify-Installer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Spicetify-Installer\Spicetify-Installer\obj\Debug\net6.0\Spicetify-Installer.dll
+C:\Users\User\source\repos\Spicetify-Installer\Spicetify-Installer\obj\Debug\net6.0\refint\Spicetify-Installer.dll
+C:\Users\User\source\repos\Spicetify-Installer\Spicetify-Installer\obj\Debug\net6.0\Spicetify-Installer.pdb
+C:\Users\User\source\repos\Spicetify-Installer\Spicetify-Installer\obj\Debug\net6.0\Spicetify-Installer.genruntimeconfig.cache
+C:\Users\User\source\repos\Spicetify-Installer\Spicetify-Installer\obj\Debug\net6.0\ref\Spicetify-Installer.dll
